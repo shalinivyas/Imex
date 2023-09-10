@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Imex/static/css/main.e5a5b2b7.css",
+    "main.js": "/Imex/static/js/main.c9e892a7.js",
+    "static/js/787.fec03637.chunk.js": "/Imex/static/js/787.fec03637.chunk.js",
+    "static/media/background.jpeg": "/Imex/static/media/background.5154a5a7c520f7a1ac6c.jpeg",
+    "static/media/second_bg.jpeg": "/Imex/static/media/second_bg.d70e75e99a2149ea8025.jpeg",
+    "static/media/track_bg.jpeg": "/Imex/static/media/track_bg.433f01513d31d6923c6b.jpeg",
+    "static/media/logo.png": "/Imex/static/media/logo.beefcd19856a9c36638f.png",
+    "static/media/services_bg.jpeg": "/Imex/static/media/services_bg.901197e5bda37a8a9656.jpeg",
+    "static/media/third_bg.jpeg": "/Imex/static/media/third_bg.b403002362a10ea7c137.jpeg",
+    "index.html": "/Imex/index.html",
+    "main.e5a5b2b7.css.map": "/Imex/static/css/main.e5a5b2b7.css.map",
+    "main.c9e892a7.js.map": "/Imex/static/js/main.c9e892a7.js.map",
+    "787.fec03637.chunk.js.map": "/Imex/static/js/787.fec03637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a5b2b7.css",
+    "static/js/main.c9e892a7.js"
+  ]
+}
